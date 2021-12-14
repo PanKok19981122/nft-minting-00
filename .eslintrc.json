@@ -1,0 +1,15 @@
+# node artifact files
+node_modules/
+dist/
+build/
+
+#environment variable
+.env
+/envs
+
+# Log files
+/logs
+*.log
+
+# coverage
+/coverage
