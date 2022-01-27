@@ -1,4 +1,4 @@
-# Celo Server
+# nft-minting-website
 ## How To Run
 1. Start by installing all dependencies by running `npm install`
 2. Next create a `.env` file at the root of the project and copy everything from `.env.example`
